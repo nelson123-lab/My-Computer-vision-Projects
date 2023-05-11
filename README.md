@@ -6,3 +6,5 @@ This repository includes different types of computer vision projects that can be
 
 This is like the Hello world of Computer vision.
 
+2) Image captioning using Flicker dataset
+This is a combination of Computer vision and Natural Language Processing.
