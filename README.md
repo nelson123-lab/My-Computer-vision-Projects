@@ -34,3 +34,12 @@ This is a combination of Computer vision and Natural Language Processing.
 
 10) Object tracking using YOLO v8
   [Repository](https://github.com/nelson123-lab/YOLOv8_Segmentation_DeepSORT_Object_Tracking)
+Different images transformation
+2) Edge and contour Detection
+3) Gender based cleaning algorithm
+4) Virtual Paint
+5) Face and Smile detection
+6) Face mask detection system for public safety.
+7) Warp perspective
+8) AI response drone for SAR
+
