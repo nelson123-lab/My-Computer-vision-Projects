@@ -1,11 +1,14 @@
-# 10-Computer-vision-Projects-for-begineers
+# My Computer vision projects
 
-This repository includes different types of computer vision projects that can be done using OpenCV package of python and tensorflow for begineers to learn computer vision.
+This repository includes different types of computer vision projects that was done using OpenCV package of python and tensorflow. Some of them are personal projects and remaining are done by following tutorials.
+1) Different images transformation
+  [Repository](https://github.com/nelson123-lab/Different-Image-transformations-using-opencv.git)
 
-1) Face dectection using OpenCV
+2) Edge and contour Detection
+  [Repository](https://github.com/nelson123-lab/Edge-and-Contour-Detection.git)
+  
+4) Face dectection using OpenCV
   [Repository](https://github.com/nelson123-lab/Face-recognition-using-python)
-
-This is like the Hello world of Computer vision.
 
 2) Warp perspective using Opencv
   [Repository](https://github.com/nelson123-lab/warp_perspective)
@@ -34,8 +37,8 @@ This is a combination of Computer vision and Natural Language Processing.
 
 10) Object tracking using YOLO v8
   [Repository](https://github.com/nelson123-lab/YOLOv8_Segmentation_DeepSORT_Object_Tracking)
-Different images transformation
-2) Edge and contour Detection
+
+
 3) Gender based cleaning algorithm
 4) Virtual Paint
 5) Face and Smile detection
