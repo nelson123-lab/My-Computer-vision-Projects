@@ -1,48 +1,38 @@
 # My Computer vision projects
 
 This repository includes different types of computer vision projects that was done using OpenCV package of python and tensorflow. Some of them are personal projects and remaining are done by following tutorials.
-1) Different images transformation
+1) AI Response Drone for SAR
+  [Respository](https://github.com/nelson123-lab/AI-response-drone-for-SAR.git)
+2) Gender based cleaning algorithm
+  [Repository](https://github.com/nelson123-lab/Gender_based_cleaning_algorithm.git)
+3) Face Mask 2 level protection for public safety
+  [Repository](https://github.com/nelson123-lab/Face-mask-2-level-protection-for-public-safety.git)
+4) Stabilizing videos using python
+  [Repository](https://github.com/nelson123-lab/Stabilizing_videos_using_deep_learning_python.git)
+6) Smile detection using OpenCV
+  [Repository](https://github.com/nelson123-lab/Smile-detection-using-OpenCV.git)
+8) Different images transformation
   [Repository](https://github.com/nelson123-lab/Different-Image-transformations-using-opencv.git)
-
-2) Edge and contour Detection
+9) Edge and contour Detection
   [Repository](https://github.com/nelson123-lab/Edge-and-Contour-Detection.git)
-  
-4) Face dectection using OpenCV
+10) Face dectection using OpenCV
   [Repository](https://github.com/nelson123-lab/Face-recognition-using-python)
-
-2) Warp perspective using Opencv
+11) Warp perspective using Opencv
   [Repository](https://github.com/nelson123-lab/warp_perspective)
-
-3) Virtual Paint
+12) Virtual Paint
   [Repository](https://github.com/nelson123-lab/Virtual_paint)
-
-4) Face Mask detection
+13) Face Mask detection
   [Repository](https://github.com/nelson123-lab/Face-Mask-detection---3)
-
-5) Image captioning using Flicker dataset
+14) Image captioning using Flicker dataset
   [Repository](https://github.com/nelson123-lab/Image-Captioning-using-Flicker_dataset)
-This is a combination of Computer vision and Natural Language Processing.
-
-6) Neural Style Transfer
+15) Neural Style Transfer
   [Repository](https://github.com/nelson123-lab/Neural-style-transfer-)
-  
-7) Stable diffusion
+16) Stable diffusion
   [Repository](https://github.com/nelson123-lab/Stable-diffusion-implementation-)
-
-8) DCGAN
+17) DCGAN
   [Repository](https://github.com/nelson123-lab/DCGAN_Neural_Network)
-
-9) Object detection using YOLO V8
+18) Object detection using YOLO V8
   [Repository](https://github.com/nelson123-lab/Object-detection-using-YOLO-v8/settings)
-
-10) Object tracking using YOLO v8
+19) Object tracking using YOLO v8
   [Repository](https://github.com/nelson123-lab/YOLOv8_Segmentation_DeepSORT_Object_Tracking)
-
-
-3) Gender based cleaning algorithm
-4) Virtual Paint
-5) Face and Smile detection
-6) Face mask detection system for public safety.
-7) Warp perspective
-8) AI response drone for SAR
 
