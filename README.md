@@ -31,8 +31,12 @@ This repository includes different types of computer vision projects that was do
   [Repository](https://github.com/nelson123-lab/Stable-diffusion-implementation-)
 17) DCGAN
   [Repository](https://github.com/nelson123-lab/DCGAN_Neural_Network)
-18) Object detection using YOLO V8
-  [Repository](https://github.com/nelson123-lab/Object-detection-using-YOLO-v8/settings)
-19) Object tracking using YOLO v8
+18) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
+  [Repository](https://github.com/nelson123-lab/Lane-Detection-and-Segmentation-for-Autonomous-Vehicles.git)
+19) Object-Detection-and-Tracking-for-Autonomous-Vehicles
+  [Repository](https://github.com/nelson123-lab/Object-Detection-and-Tracking-for-Autonomous-Vehicles.git)
+20) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
+  [Repository](https://github.com/nelson123-lab/Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans.git)
+22) Object tracking using YOLO v8
   [Repository](https://github.com/nelson123-lab/YOLOv8_Segmentation_DeepSORT_Object_Tracking)
 
