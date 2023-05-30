@@ -27,8 +27,8 @@ This repository includes different types of computer vision projects that was do
   [Repository](https://github.com/nelson123-lab/Image-Captioning-using-Flicker_dataset)
 15) Neural Style Transfer
   [Repository](https://github.com/nelson123-lab/Neural-style-transfer-)
-16) Stable diffusion
-  [Repository](https://github.com/nelson123-lab/Stable-diffusion-implementation-)
+16) Creating videos using text prompts using stable diffusion
+  [Repository](https://github.com/nelson123-lab/Creating-Video-with-text-Prompts.git)
 17) DCGAN
   [Repository](https://github.com/nelson123-lab/DCGAN_Neural_Network)
 18) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
