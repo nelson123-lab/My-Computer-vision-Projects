@@ -39,4 +39,19 @@ This repository includes different types of computer vision projects that was do
   [Repository](https://github.com/nelson123-lab/Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans.git)
 22) Object tracking using YOLO v8
   [Repository](https://github.com/nelson123-lab/YOLOv8_Segmentation_DeepSORT_Object_Tracking)
-
+23) Canny edge detection from scratch
+   - Created an algorithm from scratch to detect the edge and compared the results obtained from the OpenCV python package. This includes implementing fuction for each of the steps that are undertaken within the
+     the canny edge detection before reaching the final results.
+     [Repository](https://github.com/nelson123-lab/Canny-Edge-detection-from-scratch)
+24) Hough transform and corner detection
+   - This includes hough transform to identify different shapes and the implementation of the harris corner detection.
+     [Repository](https://github.com/nelson123-lab/Hough-Transform-and-Harris-Corner-Detection)
+25) Image stitching and panorama creation
+   - This assignment includes the process of creating a panorama by identifying the key points in different image and combining them to obtain the stitched image.
+     [Repository](https://github.com/nelson123-lab/panorama?tab=readme-ov-file)
+26) 2D Face Reconstruction
+   - This assignment includes the process of reconstructing a face with the help of different number of eigen vectors. This work compares the reconstruction ability of different combination of the eigen reconstructed faces.
+     [Repository](https://github.com/nelson123-lab/2D-Face-Reconstruction)
+27) Narrating the Unseen: Real-Time Video Descriptions for Visually Impaired Individuals
+   - This is the final project of the computer vision course. The paper includes the use of creation of the model setup where the visually impaired people can understand their surroundings in the best way compared to all other existing methods. The system uses GPT-4_vision to do the image captioning of the surrounding in real time.
+     [Repository](https://github.com/nelson123-lab/Narrating-the-Unseen-Real-Time-Video-Descriptions-for-Visually-Impaired-Individuals)
